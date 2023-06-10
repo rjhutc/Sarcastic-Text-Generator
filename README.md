@@ -1,4 +1,4 @@
-# [Sarcastic Text Generator](https://varunpatil.github.io/Sarcastic-Text-Generator/)
+# [Sarcastic Text Generator](https://rjhutc.github.io/Sarcastic-Text-Generator/)
 
 A Progressive Web App to create [Mocking Spongebob Text](https://nymag.com/intelligencer/2017/05/what-is-the-mocking-spongebob-capitalized-letters-chicken-meme.html) and more...
 
@@ -9,7 +9,7 @@ Built With:
 
 ## Steps to run on your machine
 
-1. git clone https://github.com/varunpatil/Sarcastic-Text-Generator.git
+1. git clone https://github.com/rjhutc/Sarcastic-Text-Generator.git
 2. cd Sarcastic-Text-Generator
 3. npm install
 4. npm start
