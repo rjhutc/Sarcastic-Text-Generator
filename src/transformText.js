@@ -13,10 +13,20 @@ export default function transformText(input, options) {
   let output = "";
 
   if (options.radio2 === "random") {
+  	let prevRands = [];
     for (let i = 0; i < input.length; i++) {
       let c = input[i];
-      if (c >= "A" && c <= "Z") {
-        output += getChar(options, Math.random() > 0.5 ? c : c.toLowerCase());
+      if (c == "I") {
+      	output += getChar(options, c.toLowerCase())
+      	prevRands.unshift(Math.random() / 2);
+      } else if (c == "L") {
+      	output += getChar(options, c
+      	prevRands.unshift(Math.random() / 2 + 0.5);
+      } else if (c >= "A" && c <= "Z") {
+      	let myRand = Math.random();
+      	let myBias = prevRands.length >= 3 ? (prevRands.slice(0, 3).reduce((a, b) => a + b, 0)) / prevRands.slice(0, 3).length : 0.5;
+        output += getChar(options, myRand > myBias ? c : c.toLowerCase());
+        prevRands.unshift(myRand);
       } else {
         output += c;
       }

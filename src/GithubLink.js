@@ -20,7 +20,7 @@ export default function GithubLink() {
       aria-label="github"
       onClick={() =>
         window.open(
-          "https://github.com/varunpatil/Sarcastic-Text-Generator",
+          "https://github.com/rjhutc/Sarcastic-Text-Generator",
           "_blank"
         )
       }
