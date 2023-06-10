@@ -1,25 +1,17 @@
 {
   "files": {
-    "main.css": "/Sarcastic-Text-Generator/static/css/main.7e55efdb.chunk.css",
-    "main.js": "/Sarcastic-Text-Generator/static/js/main.42a55a83.chunk.js",
-    "main.js.map": "/Sarcastic-Text-Generator/static/js/main.42a55a83.chunk.js.map",
-    "runtime-main.js": "/Sarcastic-Text-Generator/static/js/runtime-main.48900171.js",
-    "runtime-main.js.map": "/Sarcastic-Text-Generator/static/js/runtime-main.48900171.js.map",
-    "static/js/2.a096ae4c.chunk.js": "/Sarcastic-Text-Generator/static/js/2.a096ae4c.chunk.js",
-    "static/js/2.a096ae4c.chunk.js.map": "/Sarcastic-Text-Generator/static/js/2.a096ae4c.chunk.js.map",
-    "static/js/3.0e921650.chunk.js": "/Sarcastic-Text-Generator/static/js/3.0e921650.chunk.js",
-    "static/js/3.0e921650.chunk.js.map": "/Sarcastic-Text-Generator/static/js/3.0e921650.chunk.js.map",
-    "index.html": "/Sarcastic-Text-Generator/index.html",
+    "main.css": "/Sarcastic-Text-Generator/static/css/main.178e81c0.css",
+    "main.js": "/Sarcastic-Text-Generator/static/js/main.1b54d695.js",
+    "static/js/377.10a3c768.chunk.js": "/Sarcastic-Text-Generator/static/js/377.10a3c768.chunk.js",
+    "static/media/background.png": "/Sarcastic-Text-Generator/static/media/background.416817e3288cdff1d2dc.png",
     "service-worker.js": "/Sarcastic-Text-Generator/service-worker.js",
-    "service-worker.js.map": "/Sarcastic-Text-Generator/service-worker.js.map",
-    "static/css/main.7e55efdb.chunk.css.map": "/Sarcastic-Text-Generator/static/css/main.7e55efdb.chunk.css.map",
-    "static/js/2.a096ae4c.chunk.js.LICENSE.txt": "/Sarcastic-Text-Generator/static/js/2.a096ae4c.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Sarcastic-Text-Generator/static/media/background.416817e3.png"
+    "index.html": "/Sarcastic-Text-Generator/index.html",
+    "main.178e81c0.css.map": "/Sarcastic-Text-Generator/static/css/main.178e81c0.css.map",
+    "main.1b54d695.js.map": "/Sarcastic-Text-Generator/static/js/main.1b54d695.js.map",
+    "377.10a3c768.chunk.js.map": "/Sarcastic-Text-Generator/static/js/377.10a3c768.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.48900171.js",
-    "static/js/2.a096ae4c.chunk.js",
-    "static/css/main.7e55efdb.chunk.css",
-    "static/js/main.42a55a83.chunk.js"
+    "static/css/main.178e81c0.css",
+    "static/js/main.1b54d695.js"
   ]
 }
